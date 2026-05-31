@@ -1,4 +1,4 @@
-name: Automatic Build
+name: Automatic Build and Publish artifacts to Release 
 
 on:
   workflow_dispatch:
